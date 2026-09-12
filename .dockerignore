@@ -1,0 +1,12 @@
+node_modules
+.git*
+.env*
+!.env.example
+coverage
+*.md
+LICENSE
+dist
+src/_img
+docker-compose*.yml
+Dockerfile*
+.dockerignore

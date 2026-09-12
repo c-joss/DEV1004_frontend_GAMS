@@ -1,7 +1,7 @@
 {
   "name": "dev1003-a3-frontend-gams",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
